@@ -8,5 +8,6 @@ In case of any errors, please contact
 
 Vayam Jain - jainvayam@gmail.com
 (Software and Avionics Head, UAS-DTU)
+
 Arjun Gupta - arjun222gupta@gmail.com
 (Avionics Technician, UAS-DTU)
