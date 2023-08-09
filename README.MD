@@ -1,4 +1,4 @@
-# Exploration of GPS-denied environment using Depth Sensor on a UAV 
+# Exploration of GPS-denied environment to detect and segment cracks in an Indoor Environment
  		
 Developed obstacle avoidance algorithm in ROS to guide and map a UAV across an uncharted territory using a depth camera and IMU as sensors while operating in a GPS-denied environment. 
 
