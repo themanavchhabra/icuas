@@ -8,8 +8,8 @@ The *custom_packages* folder contains the packages that were heavily modified by
 
 In case of any errors, please contact
 
-Vayam Jain - jainvayam@gmail.com
-(Software and Avionics Head, UAS-DTU)
+Manav Chhabra - manavrchhabra@gmail.com
+(Software Technician, UAS-DTU)
 
 Arjun Gupta - arjun222gupta@gmail.com
 (Avionics Technician, UAS-DTU)
